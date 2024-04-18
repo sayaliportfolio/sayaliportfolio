@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sayali Sonawane</h1>
 <h3 align="center">A passionate Data Analyst with 3 years of experience</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated++analyst+gif&sca_esv=63c115a30e488880&sca_upv=1&rlz=1C1GGRV_enIN1071IN1072&ei=LfsgZp6nDsTs4-EP3PKP8Ag&ved=0ahUKEwje8ZuFzMuFAxVE9jgGHVz5A44Q4dUDCBA&uact=5&oq=animated++analyst+gif&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWFuaW1hdGVkICBhbmFseXN0IGdpZjIIECEYoAEYwwRIzTlQkgNYyy5wAngBkAEAmAGqAaAB_hCqAQQwLjE1uAEDyAEA-AEBmAIKoAKyCcICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIZEC4YgAQYsAMY0QMYQxjHARjIAxiKBdgBAcICBxAAGIAEGA3CAggQABgHGAgYHsICCxAAGIAEGIYDGIoFwgIGEAAYBxgewgIOEAAYgAQYkQIYsQMYigXCAgsQABiABBiRAhiKBcICBRAAGIAEmAMAiAYBkAYMugYECAEYCJIHAzIuOKAH5lA&sclient=gws-wiz-serp#vhid=PF2qW6zKBSY-6M&vssid=l">
+<img align="right" alt="coding" width="400" src="https://github.com/sayaliportfolio/sayaliportfolio/blob/main/Data%20Analysis%20Animated%20Icon%20download%20in%20JSON%2C%20LOTTIE%20or%20MP4%20format.html">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayaliportfolio&label=Profile%20views&color=0e75b6&style=flat" alt="sayaliportfolio" /> </p>
 
