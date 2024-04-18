@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGCw0pkn18/zQ9tybQqqnbxRx_wyTXn4g/edit?locale=en&ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7IkUiOnsiQSI6dHJ1ZX19fQ)
+![logo](https://github.com/sayaliportfolio/sayaliportfolio/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm Sayali Sonawane</h1>
 <h3 align="center">A passionate Data Analyst with 3 years of experience</h3>
 
