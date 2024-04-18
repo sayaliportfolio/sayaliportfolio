@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sayali Sonawane</h1>
 <h3 align="center">A passionate Data Analyst with 3 years of experience</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/sayaliportfolio/sayaliportfolio/blob/main/Data%20Analysis%20Animated%20Icon%20download%20in%20JSON%2C%20LOTTIE%20or%20MP4%20format.html">
+<img align="right" alt="coding" width="400" src="https://github.com/sayaliportfolio/sayaliportfolio/blob/main/60d354d11e28ba37b767f933_Data%20points%20(1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayaliportfolio&label=Profile%20views&color=0e75b6&style=flat" alt="sayaliportfolio" /> </p>
 
